@@ -5,7 +5,7 @@ This system streamlines the appraisal process by enabling employees to submit ap
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Employee Module**
   - User-friendly login and profile management
@@ -29,7 +29,7 @@ This system streamlines the appraisal process by enabling employees to submit ap
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap  
 - **Backend:** PHP (Core PHP)  
@@ -38,7 +38,7 @@ This system streamlines the appraisal process by enabling employees to submit ap
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
